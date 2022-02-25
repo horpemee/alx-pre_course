@@ -1,1 +1,2 @@
-I am learning at ALX and its cool
+I am learning at ALX and its fun.
+Its tasking
